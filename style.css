@@ -2,9 +2,16 @@ div{
     height: 50px;
     background-color: aqua;
     width: 100px;
+    border: width 2px;
+    border-style: dotted;
+    border-color: brown;
+    text-align: center;
 }
 p{
     height: 200px;
     width: 400px; ;
+    border-width: 2pxS;
     background-color: blueviolet;
+    text-align: center;
+    border-style: double;
 }
