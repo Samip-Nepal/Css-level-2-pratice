@@ -10,10 +10,15 @@ div{
     padding: 25px 35px 5px 15px ;
 
     /* border: radius 15px;  */
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
 
 }
 #one{
  border-radius: 50%; 
  padding: 25px;
+ margin: 25px;
 }
 
