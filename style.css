@@ -1,24 +1,7 @@
+
 div{
-    height: 50px;
-    background-color: aqua;
+    height: 100px;
     width: 100px;
-    border: 2px dotted red;
-    /* padding-left: 25px;
-    padding-right: 35px;
-    padding-top: 5px;
-    padding-bottom: 15px; */
-    padding: 25px 35px 5px 15px ;
-
-    /* border: radius 15px;  */
-    margin-top: 25px;
-    margin-bottom: 25px;
-    margin-right: 25px;
-    margin-left: 25px;
-
+    border-radius: 50%;
+    background-color: green;
 }
-#one{
- border-radius: 50%; 
- padding: 25px;
- margin: 25px;
-}
-
