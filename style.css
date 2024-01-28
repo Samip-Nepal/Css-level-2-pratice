@@ -1,7 +1,21 @@
-
-div{
+*{
+    margin: 20px;
+}
+ #one {
     height: 100px;
     width: 100px;
     border-radius: 50%;
     background-color: green;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:red;
+}
+#three{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: yellow;
 }
