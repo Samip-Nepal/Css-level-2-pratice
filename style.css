@@ -13,4 +13,9 @@ button{
 }
 #amazon{
     color: #f08804;
+    font-size:  25px; ;
+}
+a{
+    margin-right: 200px; 
+    text-decoration:none ;
 }
