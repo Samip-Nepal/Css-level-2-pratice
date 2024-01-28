@@ -1,11 +1,12 @@
 
 div{
     height: 60px;
+    width: 50px;
     background-color:burlywood;
-    display: inline;
+    display: inline-block;
  
 }
 button{
    background-color:  #f08804;
-   display: block;
+   display: none;
 }
