@@ -1,12 +1,22 @@
 
-div{
-    height: 60px;
-    width: 50px;
-    background-color:burlywood;
+#one{
+    margin: 25px;
+    padding: 25px;
     display: inline-block;
- 
+    
+background-color: rgba(255,0,0,0.25);
 }
-button{
-   background-color:  #f08804;
-   display: none;
+#two{
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    
+background-color: rgba(255,0,0,0.5);
+}
+#three{
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    
+background-color: rgba(255,0,0,0.75);
 }
